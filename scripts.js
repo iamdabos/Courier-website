@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Simulate tracking result
             trackingResult.textContent = `Tracking result for ${trackingNumber}:
             Your package is on its way!
-            Destination: 123 Main St, Springfield,
+            Destination: 123 Main St, Zurich, Switzerland
             Weight: 2kg`;
         }, 2000); // Delay of 2000 milliseconds (2 seconds)
     });
